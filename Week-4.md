@@ -6,9 +6,17 @@
 
 # Assignments
 
-You need to grade your student's Online Profiles before class.
+## Due
 
-No assignments are assigned this week, but next week will be the Live Coding assignment.
+- Online Profiles needs to be graded before class.
+
+## In Class
+
+You will need to complete a Project Review for your students before the end of the class.
+
+## Next Week
+
+No assignments are assigned as homework this week. Encourage your students to work more towards their user stories, and to practice for their live coding assignment next week.
 
 # Weekly Reminders
 
