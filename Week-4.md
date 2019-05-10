@@ -1,8 +1,8 @@
 # Topics
 
-Live Coding
-Working with a Mentor
-Project Review
+- Live Coding
+- Working with a Mentor
+- Project Review
 
 # Assignments
 
