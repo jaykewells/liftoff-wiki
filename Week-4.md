@@ -14,6 +14,22 @@
 
 You will need to complete a Project Review for your students before the end of the class.
 
+## Class Tips & Tricks
+
+### Online Profiles
+
+Some students may not pass the Online Profiles assignment for various reasons. After grading the Online Profiles assignment make sure to reach out to any students that did not pass the assignment. Give them direct feedback on what they need to change in order to pass the assignment. Give them a due date to make their changes and to re-submit the assignment so that it doesn't go unnoticed throughout the class.
+
+### Live Coding
+
+Students will struggle with Live Coding problems. Most students have been focused on their coding projects, and haven't done much algorithm style coding. They will forget basic things sometimes. You should review the Live Coding Problems before class so that you have a better understanding of what your students need to do to solve the problems.
+
+Most students will struggle with 1 of 2 things: breaking the problem down into small pieces, or forgetting basic syntax. You can figure out which thing they are struggling with by asking them to describe a solution in psuedocode. If they are able to talk about how they'd solve it, but then struggle it's a syntax issue. If they aren't able to talk about how they'd solve it, it's a breaking the problem down problem.
+
+### Project Review
+
+You will need to perform a project review with each of your students this week. The project review doesn't need to be a long ordeal, you simply need to make sure your student is making progress on their project. Ask them about 
+
 ## Next Week
 
 No assignments are assigned as homework this week. Encourage your students to work more towards their user stories, and to practice for their live coding assignment next week.
