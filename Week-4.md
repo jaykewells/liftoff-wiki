@@ -28,7 +28,7 @@ Most students will struggle with 1 of 2 things: breaking the problem down into s
 
 ### Project Review
 
-You will need to perform a project review with each of your students this week. The project review doesn't need to be a long ordeal, you simply need to make sure your student is making progress on their project. Ask them about 
+You will need to perform a project review with each of your students this week. The project review doesn't need to be a long ordeal, you simply need to make sure your student is making progress on their project. Ask them about things they've struggled with so far. You probably won't have time to help each of your students solve a technical issue in each project review. So if students are talking about technical issues, ask them about what they have done to solve that issue. What is their process when they get stuck? Are they asking other students, have they read technical documentation, have they looked for tutorials online, have they googled different versions of the same question? If they haven't tried all of those things, they should. If they are having lots of technical issues it could be a deeper issue of not understanding what they need to do to solve a problem. Have them walk you through what their project should be doing in as fine of detail as possible. If they struggle, they may not know why they are trying to do something they are attempting to do.
 
 ## Next Week
 
