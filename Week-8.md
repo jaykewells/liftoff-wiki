@@ -19,6 +19,8 @@ Encourage your students to continue learning and building things on their own. W
 
 # Objectives
 * Students complete final project review and course
+* Every student should have worked on at 2 user stories during the project cycle.
+* Every student in your group should have turned in a resume, online Profile, and 2 project check ins.
 
 
 # Weekly Reminders
