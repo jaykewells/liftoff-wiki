@@ -6,7 +6,7 @@
 
 # WARNING: It's possible that pulling in master from origin or upstream could cause merge conflicts. You will need to resove those.
 
-upstream="git@github.com:LaunchCodeEducation/intro-to-professional-web-dev.wiki.git"
+upstream="git@github.com:LaunchCodeEducation/liftoff.wiki.git"
 
 if [ $(git config --get remote.upstream.url) != "$upstream" ]; then
     echo "Add remote named upstream by running:"
