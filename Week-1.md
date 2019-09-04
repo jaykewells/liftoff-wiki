@@ -22,7 +22,20 @@ It's helpful to remind students that this class is meant to guide them towards c
 ## Git (using, and managing project workflow)
 Once your group has decided on a project idea, get in contact with your candidate engagement manager who can then create a project repo on LaunchCode's Liftoff Projects Github account. You'll be added as an admin to the repo. You should get the GitHub usernames of each of your students and add them as collaborators, they should then fork the master. Students should work on a new branch per user story and send a pull request for you to approve. Talk to your students about committing frequently (ideally when they complete a user story). Give them a summary of what their Git workflow will look like.
 
+### Useful Links
 
+* Git Refresher: http://education.launchcode.org/liftoff/modules/git/git-refresher.html
+* Git Setup for Groups: https://education.launchcode.org/liftoff/modules/git/git-setup.html
+* Git Workflow for Groups: http://education.launchcode.org/liftoff/modules/git/git-workflow.html
+* Git Commits: http://education.launchcode.org/liftoff/modules/git/git-commits.html
+
+## The First Scrum
+
+It can be fairly awkward the first time the group gets together for a standup, so here's a modified version of the three questions to help your team get to know each other: 
+
+* When did you complete LC101/How did you get to Liftoff? 
+* What were you doing for work prior to Launch Code? 
+* What do you want to learn during your Liftoff Project? 
 
 # Objectives
 * Your group should leave class having decided on a project idea
@@ -34,3 +47,8 @@ No assignments are assigned as homework this week. Encourage your students to wo
 
 # Weekly Reminders
 
+* Have students aim for several User Stories or defined their large Features by the next class. 
+  * Encourage students to post their User Stories to the team Slack or Trello Board
+  * This lets you review and help guide the story development.
+* Group Project Mentors should have a Slack Channel and Trello board set up prior to Week 2.
+* Students do not have to wait for week 2 to start coding. 
